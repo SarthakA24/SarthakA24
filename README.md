@@ -11,7 +11,6 @@
 
 <img src = "https://komarev.com/ghpvc/?username=SarthakA24">
 
+<img src="https://github-readme-stats.vercel.app/api?username=SarthakA24&show_icons=true&locale=en"> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SarthakA24&show_icons=true&locale=en">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakA24">
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakA24"> -->
