@@ -9,7 +9,7 @@
 - 💬 Ask me about getting started on WordPress
 - 📫 How to reach me: sarthakaggarwal24@gmail.com
 
-<img src = "https://komarev.com/ghpvc/?username=SarthakA24">
+<img src="https://komarev.com/ghpvc/?username=SarthakA24&style=flat-square">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SarthakA24&show_icons=true&locale=en"> 
 
