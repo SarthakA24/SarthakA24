@@ -17,3 +17,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=SarthakA24&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 📛 Holopin Badges
+[![An image of @sarthaka24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthaka24)](https://holopin.io/@sarthaka24)
